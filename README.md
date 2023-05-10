@@ -23,14 +23,16 @@ There are the dataset in Data folder.
 
 **- Examples of dataset**
 - Examples of Weather dataset (JFK)
+![그림1](https://github.com/dxlabskku/flightdelay/assets/119174391/5078c22a-0311-4e03-8786-6fb122c1f2ad)
 
 - Examples of Flight dataset (JFK)
-
+![그림2](https://github.com/dxlabskku/flightdelay/assets/119174391/b0c76a09-463d-4b03-87d7-cbb1d1be72cb)
 
 # Models
 
 This image shows the entire process of the models. We used light models for predicting flight departure delay
 `ML_ICN.py`, `ML_JFK.py`, `LSTM_ICN.py` and `LSTM_JFK.py` in `Model` folder are the codes for experiments.
+![그림3](https://github.com/dxlabskku/flightdelay/assets/119174391/a9443c7e-3a63-40e0-ba9b-493b87790cd9)
 
 
 
@@ -38,17 +40,23 @@ This image shows the entire process of the models. We used light models for pred
 # Result
 Test results for all models
 - ICN
+![그림4](https://github.com/dxlabskku/flightdelay/assets/119174391/2353594d-4cd2-496a-a2d9-a0b459ed4449)
 
 - JFK
+![그림5](https://github.com/dxlabskku/flightdelay/assets/119174391/a849009f-d880-400b-bf22-10d7e898975f)
 
 - MDW
+![그림6](https://github.com/dxlabskku/flightdelay/assets/119174391/f8e2e2fe-3b7d-457e-aae8-4edada3df94f)
 
 Feature Importance for three airports
 - ICN
+![그림7](https://github.com/dxlabskku/flightdelay/assets/119174391/351c65e4-1306-41c9-aa7f-08c169515501)
 
 - JFK
+![그림8](https://github.com/dxlabskku/flightdelay/assets/119174391/872a8cbe-ac6e-4a1b-817f-816831dc0bc0)
 
 - MDW
+![그림9](https://github.com/dxlabskku/flightdelay/assets/119174391/3cb7a300-090f-459d-8dd8-6d8070229dcf)
 
 
 
